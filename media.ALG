@@ -1,15 +1,7 @@
 Algoritmo "média"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 22/02/2022
 Var
-// Seção de Declarações das variáveis 
  exccompen,porti,integrador,institucional,media:real
-
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+Inicio.
  escreva("qual foi a sua nota no exercício de compensação?")
  leia(exccompen)
  escreva("qual foi a sua nota no potifólio?")
